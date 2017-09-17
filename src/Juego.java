@@ -105,9 +105,11 @@ public class Juego {
             System.out.println("Computador");
             System.out.println("Numero de Aciertos: "+jugadaCompu);
             
-        }else{
+        }else if(jugadaCompu<jugadaPersona){
         System.out.println("Persona");
             System.out.println("Numero de Aciertos: "+jugadaPersona);
+        }else {
+            System.out.println("Hay un empate en puntos"); 
         }
 }
 }
