@@ -1,5 +1,3 @@
 # Piedra_Papel
-copie lo que quiera aca para que se vea cuando la profe ingrese
-https://github.com/juancho46/Piedra_Papel
-
-espere le organizo algo
+Este es el trabajo Piedra Pael o Tijera para la clase de construccion de Software 
+Tecnologico de Antioquia 
